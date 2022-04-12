@@ -82,7 +82,7 @@ or(y2,a,b);
 not(y3,a);
 nand(y4,a,b);
 nor(y5,a,b);
-endmodule;
+endmodule
 */
 ```
 ## Logic symbol & Truthtable
