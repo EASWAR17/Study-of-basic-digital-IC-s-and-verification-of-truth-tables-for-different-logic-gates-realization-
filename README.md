@@ -86,6 +86,8 @@ endmodule;
 */
 ```
 ## Logic symbol & Truthtable
+![SS1](https://user-images.githubusercontent.com/94154683/162911135-b871c783-56db-443e-9397-9c53f407418e.png)
+
 
 ## RTL realization 
 ![s11](https://user-images.githubusercontent.com/94154683/162458480-9f51e74e-e145-4c77-a923-341f1473d676.PNG)
